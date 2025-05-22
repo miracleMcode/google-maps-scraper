@@ -1,0 +1,9 @@
+Copyright (c) 2025 Irakiza Janvier
+
+All rights reserved.
+
+You are free to view and test this code for personal, non-commercial use.  
+However, any reproduction, modification, distribution, or commercial use is strictly prohibited without the express written permission of the author.
+
+To request permission to use this software, contact: miracletech00@gmail.com  
+Or support the author at: https://www.buymeacoffee.com/miracleMcode
